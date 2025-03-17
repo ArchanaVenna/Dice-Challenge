@@ -1,5 +1,6 @@
 # Dice-Challenge
 Steps used while writing a javascript code:
+
 Step 1 - Create an External Javascript File :Create a new Javascript file called index.js and link to it from the index.html file.
 Step 2 - Add Dice Images: In the Dicee project, there is a folder called images, add the images of dice6.png as the source to both of the <img> elements.(in dice.html)
 Step 3 - Create a Random Number: Inside index.js, create a new variable called randomNumber1 then set the value of this variable to a random number between 1 and 6. Test it out in the console to make sure it works as expected.
